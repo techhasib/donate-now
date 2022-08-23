@@ -145,7 +145,7 @@ body{
 }
 
 .volunteers{
-    background: url(/images/dream-bg.png) no-repeat;
+    background: url(images/dream-bg.png) no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
